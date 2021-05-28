@@ -12,7 +12,7 @@ class SongList extends Component {
               className="ui button primary"
               onClick={()=> this.props.selectSong(song)}
             >
-               Select
+               
              </button>
            </div>
 
